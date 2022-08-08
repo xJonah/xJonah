@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am currently a student at Aston University studying cybersecurity. I hope to improve my scripting and programming skills in order to help me with my future in cyber. Here I will post my personal projects or work I have done for others! :fire:
+
+
 
 [![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJonah&show_icons=true&theme=synthwave)](https://github.com/xJonah/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xJonah&show_icons=true&theme=synthwave)](https://github.com/xJonah/github-readme-stats)
