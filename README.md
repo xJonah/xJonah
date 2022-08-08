@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJonah)](https://github.com/xJonah/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xJonah)](https://github.com/xJonah/github-readme-stats)
+[![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJonah&show_icons=true&theme=synthwave)](https://github.com/xJonah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xJonah&show_icons=true&theme=synthwave)](https://github.com/xJonah/github-readme-stats)
 
 <!--
 **xJonah/xJonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
