@@ -1,4 +1,4 @@
-### Hi there 👋 I am currently a student at Aston University studying cybersecurity. I hope to improve my scripting and programming skills in order to help me with my future in cyber. Here I will post my personal projects or work I have done for others! :fire:
+### Hi there 👋 I am currently a student at Aston University studying cybersecurity. I hope to improve my scripting and programming skills in order to help me with my future in cyber. Here I will post my personal projects or work I have done for school/others! :fire:
 
 
 
