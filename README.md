@@ -1,4 +1,4 @@
-### Hi there 👋 Here is a collection of personal and required projects :fire:
+### Hi there 👋
 
 
 
